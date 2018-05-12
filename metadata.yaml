@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42837
     wikipedia: http://de.wikipedia.org/wiki/Martin_Gumpert
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44612#VerkettungGedichte
 gutenberg_issued: '2014-01-07'
 gutenberg_type: Text
 identifiers:
